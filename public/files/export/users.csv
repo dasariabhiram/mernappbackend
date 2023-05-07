@@ -1,0 +1,4 @@
+FirstName,LastName,Email,Phone,Gender,Status,Profile,Location,DateCreated,DateUpdated
+harsh,das,harsh@gmail.com,9818476268,Male,Active,image-1683437233709.logo192.png,ap,Sun May 07 2023 10:57:13 GMT+0530 (India Standard Time),-
+a,b,a@gmail.com,9908153478,Female,Active,image-1683437616563.logo192.png,Ap,Sun May 07 2023 11:03:36 GMT+0530 (India Standard Time),Sun May 07 2023 01:04:34 GMT+0530 (India Standard Time)
+akhil,das,akhil@gmail.com,9618466368,Male,InActive,image-1683438312667.man.png,Ap,Sun May 07 2023 11:15:12 GMT+0530 (India Standard Time),-
